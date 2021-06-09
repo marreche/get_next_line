@@ -6,11 +6,11 @@
 /*   By: marreche <marreche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/17 17:11:45 by marreche          #+#    #+#             */
-/*   Updated: 2021/03/29 17:04:45 by marreche         ###   ########.fr       */
+/*   Updated: 2021/06/09 12:22:56 by marreche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t	ft_strlen(const char *str)
 {

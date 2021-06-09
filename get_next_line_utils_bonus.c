@@ -6,11 +6,11 @@
 /*   By: marreche <marreche@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/16 11:18:35 by marreche          #+#    #+#             */
-/*   Updated: 2021/03/25 15:50:34 by marreche         ###   ########.fr       */
+/*   Updated: 2021/06/09 12:23:14 by marreche         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 char	*ft_strchr(const char *s, int c)
 {
